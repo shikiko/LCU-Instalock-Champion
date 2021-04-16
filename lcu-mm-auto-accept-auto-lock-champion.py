@@ -211,6 +211,7 @@ champions = {  # ,"-1":"None"}
     '147': 'Seraphine',
     '526': 'Rell',
     '234': 'Viego',
+    '887': 'Gwen'
     }
 championNames = {
     'Annie': '1',
@@ -367,6 +368,7 @@ championNames = {
     'Seraphine': '147',
     'Rell': '526',
     'Viego': '234',
+    'Gwen': '887'
     }
 championIds = []
 
